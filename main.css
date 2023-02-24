@@ -8,12 +8,13 @@ header,
 section h2,
 section h3,
 form button {
-    font-family: 'Bungee', cursive;
-    font-weight: normal;
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: bolder;
+
 }
 
 body, input, textarea {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 header {
@@ -47,7 +48,7 @@ section .container {
 }
 
 .brands-list img {
-    height: 24px;
+    height: 62px;
 }
 
 .brands-list li {
